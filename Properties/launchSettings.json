@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HW_CSharp_3.8": {
+      "commandName": "Project",
+      "commandLineArgs": "txt hi"
+    }
+  }
+}
